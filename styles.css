@@ -176,7 +176,7 @@ header span {
 				height: 100vh;
 				overflow: hidden;
 				background-color: black;
-				background-image: url('../img/pexels-jakub-novacek-924824-min.jpg');
+				background-image: url('pexels-jakub-novacek-924824-min.jpg');
 				background-size: cover;
 				background-position: center;
 				background-repeat: no-repeat;
