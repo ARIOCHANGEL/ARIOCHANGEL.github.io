@@ -407,9 +407,9 @@ footer img {width: 1.2rem;}
 
 /* about me */
 
-.content-about {height: 100vh;
 
-.content-about .card {
+
+.card {
 				margin: 2rem 2rem;
 				border: 0.3rem solid white;
 				border-radius: 0.5rem;
