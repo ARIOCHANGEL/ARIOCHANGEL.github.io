@@ -409,7 +409,7 @@ footer img {width: 1.2rem;}
 
 .content-about {height: 100vh;
 
-.card {
+.content-about .card {
 				margin: 2rem 2rem;
 				border: 0.3rem solid white;
 				border-radius: 0.5rem;
