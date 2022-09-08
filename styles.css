@@ -190,7 +190,7 @@ header span {
 
 .hero .hero-content {
 				padding: 0.8rem;
-				background-color: red;
+				
 }
 
 
@@ -353,7 +353,7 @@ transform: rotate(-45deg) translate(-15px, 12px);
 				margin-top: -90px;
 				padding-bottom: 90px;
 				display: block;
-				background-color: blue;
+				
 }
 
 .layout p {
